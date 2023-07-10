@@ -2,9 +2,9 @@
 
 ## Intro
 
-Hi, I go by Noel Codes and I created this repository to save my answers to the leetcode questions that are part of the Grind75 list which you can find [here](https://www.techinterviewhandbook.org/grind75).
+Hi, I go by Noel Codes and I created this repository to save my answers to the LeetCode questions that are part of the Grind75 list which you can find [here](https://www.techinterviewhandbook.org/grind75).
 
-The questions are separated by difficulty (Easy, Medium and Hard). The questions have a link to my solution and one link to the question in leetcode.
+The questions are separated by difficulty (Easy, Medium and Hard). The questions have a link to my solution and one link to the question in LeetCode.
 
 ## Problems & Solutions
 
