@@ -11,7 +11,7 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 ### Easy
 - [x] Two Sum [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/TwoSum/Solution.java) | [LeetCode](https://leetcode.com/problems/two-sum/)
 - [x] Valid Parentheses [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/ValidParentheses/Solution.java) | [LeetCode](https://leetcode.com/problems/valid-parentheses/)
-- [ ] Merge Two Sorted Lists [My solution]() | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [x] Merge Two Sorted Lists [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/MergeTwoSortedLists/Solution.java) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] Best Time to Buy and Sell Stock [My solution]() | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] Valid Palindrome [My solution]() | [LeetCode](https://leetcode.com/problems/valid-palindrome/)
 - [ ] Invert Binary Tree [My solution]() | [LeetCode](https://leetcode.com/problems/invert-binary-tree/)
