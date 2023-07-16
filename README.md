@@ -15,7 +15,7 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] Best Time to Buy and Sell Stock [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/BestTimeToBuyAndSellStock/Solution.java) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] Valid Palindrome [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/ValidPalindrome/Solution.java) | [LeetCode](https://leetcode.com/problems/valid-palindrome/)
 - [x] Invert Binary Tree [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/InvertBinaryTree/Solution.java) | [LeetCode](https://leetcode.com/problems/invert-binary-tree/)
-- [ ] Valid Anagram [My solution]() | [LeetCode](https://leetcode.com/problems/valid-anagram/)
+- [x] Valid Anagram [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/ValidAnagram/Solution.java) | [LeetCode](https://leetcode.com/problems/valid-anagram/)
 - [ ] Binary Search [My solution]() | [LeetCode](https://leetcode.com/problems/binary-search/)
 - [ ] Flood Fill [My solution]() | [LeetCode](https://leetcode.com/problems/flood-fill/)
 - [ ] Lowest Common Ancestor of a BST [My solution]() | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
