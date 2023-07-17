@@ -16,7 +16,7 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] Valid Palindrome [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/ValidPalindrome/Solution.java) | [LeetCode](https://leetcode.com/problems/valid-palindrome/)
 - [x] Invert Binary Tree [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/InvertBinaryTree/Solution.java) | [LeetCode](https://leetcode.com/problems/invert-binary-tree/)
 - [x] Valid Anagram [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/ValidAnagram/Solution.java) | [LeetCode](https://leetcode.com/problems/valid-anagram/)
-- [ ] Binary Search [My solution]() | [LeetCode](https://leetcode.com/problems/binary-search/)
+- [x] Binary Search [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/BinarySearch/Solution.java) | [LeetCode](https://leetcode.com/problems/binary-search/)
 - [ ] Flood Fill [My solution]() | [LeetCode](https://leetcode.com/problems/flood-fill/)
 - [ ] Lowest Common Ancestor of a BST [My solution]() | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [ ] Balanced Binary Tree [My solution]() | [LeetCode](https://leetcode.com/problems/balanced-binary-tree/)
