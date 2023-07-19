@@ -18,7 +18,7 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] Valid Anagram [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/ValidAnagram/Solution.java) | [LeetCode](https://leetcode.com/problems/valid-anagram/)
 - [x] Binary Search [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/BinarySearch/Solution.java) | [LeetCode](https://leetcode.com/problems/binary-search/)
 - [x] Flood Fill [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/FloodFill/Solution.java) | [LeetCode](https://leetcode.com/problems/flood-fill/)
-- [ ] Lowest Common Ancestor of a BST [My solution]() | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- [x] Lowest Common Ancestor of a BST [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/LowestCommonAncestor/Solution.java) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [ ] Balanced Binary Tree [My solution]() | [LeetCode](https://leetcode.com/problems/balanced-binary-tree/)
 - [ ] Linked List Cycle [My solution]() | [LeetCode](https://leetcode.com/problems/linked-list-cycle/)
 - [ ] Implement Queue using Stacks [My solution]() | [LeetCode]()
