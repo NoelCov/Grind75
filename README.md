@@ -21,4 +21,4 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] Lowest Common Ancestor of a BST [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/LowestCommonAncestor/Solution.java) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [x] Balanced Binary Tree [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/BalancedBinaryTree/Solution.java) | [LeetCode](https://leetcode.com/problems/balanced-binary-tree/)
 - [x] Linked List Cycle [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/LinkedListCycle/Solution.java) | [LeetCode](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] Implement Queue using Stacks [My solution]() | [LeetCode]()
+- [x] Implement Queue using Stacks [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/ImplementQueueUsingStacks/Solution.java) | [LeetCode](https://leetcode.com/problems/implement-queue-using-stacks/)
