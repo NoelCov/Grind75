@@ -22,7 +22,7 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] Balanced Binary Tree [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/BalancedBinaryTree/Solution.java) | [LeetCode](https://leetcode.com/problems/balanced-binary-tree/)
 - [x] Linked List Cycle [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/LinkedListCycle/Solution.java) | [LeetCode](https://leetcode.com/problems/linked-list-cycle/)
 - [x] Implement Queue using Stacks [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/ImplementQueueUsingStacks/Solution.java) | [LeetCode](https://leetcode.com/problems/implement-queue-using-stacks/)
-- [ ] First Bad Version [My solution]() | [LeetCode](https://leetcode.com/problems/first-bad-version/)
+- [x] First Bad Version [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/FirstBadVersion/Solution.java) | [LeetCode](https://leetcode.com/problems/first-bad-version/)
 - [ ] Ransom Note [My solution]() | [LeetCode](https://leetcode.com/problems/ransom-note/)
 - [ ] Climbing Stairs [My solution]() | [LeetCode](https://leetcode.com/problems/climbing-stairs/)
 - [ ] Longest Palindrome [My solution]() | [LeetCode](https://leetcode.com/problems/longest-palindrome/)
