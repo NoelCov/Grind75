@@ -24,7 +24,7 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] Implement Queue using Stacks [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/ImplementQueueUsingStacks/Solution.java) | [LeetCode](https://leetcode.com/problems/implement-queue-using-stacks/)
 - [x] First Bad Version [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/FirstBadVersion/Solution.java) | [LeetCode](https://leetcode.com/problems/first-bad-version/)
 - [x] Ransom Note [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/RansomNote/Solution.java) | [LeetCode](https://leetcode.com/problems/ransom-note/)
-- [ ] Climbing Stairs [My solution]() | [LeetCode](https://leetcode.com/problems/climbing-stairs/)
+- [x] Climbing Stairs [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/ClimbingStairs/Solution.java) | [LeetCode](https://leetcode.com/problems/climbing-stairs/)
 - [ ] Longest Palindrome [My solution]() | [LeetCode](https://leetcode.com/problems/longest-palindrome/)
 - [ ] Reverse Linked List [My solution]() | [LeetCode](https://leetcode.com/problems/reverse-linked-list/)
 - [ ] Majority Element [My solution]() | [LeetCode](https://leetcode.com/problems/majority-element/)
