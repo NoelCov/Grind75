@@ -25,7 +25,7 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] First Bad Version [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/FirstBadVersion/Solution.java) | [LeetCode](https://leetcode.com/problems/first-bad-version/)
 - [x] Ransom Note [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/RansomNote/Solution.java) | [LeetCode](https://leetcode.com/problems/ransom-note/)
 - [x] Climbing Stairs [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/ClimbingStairs/Solution.java) | [LeetCode](https://leetcode.com/problems/climbing-stairs/)
-- [ ] Longest Palindrome [My solution]() | [LeetCode](https://leetcode.com/problems/longest-palindrome/)
+- [x] Longest Palindrome [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/LongestPalindrome/Solution.java) | [LeetCode](https://leetcode.com/problems/longest-palindrome/)
 - [ ] Reverse Linked List [My solution]() | [LeetCode](https://leetcode.com/problems/reverse-linked-list/)
 - [ ] Majority Element [My solution]() | [LeetCode](https://leetcode.com/problems/majority-element/)
 - [ ] Add Binary [My solution]() | [LeetCode](https://leetcode.com/problems/add-binary/)
