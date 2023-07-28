@@ -27,7 +27,7 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] Climbing Stairs [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/ClimbingStairs/Solution.java) | [LeetCode](https://leetcode.com/problems/climbing-stairs/)
 - [x] Longest Palindrome [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/LongestPalindrome/Solution.java) | [LeetCode](https://leetcode.com/problems/longest-palindrome/)
 - [x] Reverse Linked List [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/ReverseLinkedList/Solution.java) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/)
-- [ ] Majority Element [My solution]() | [LeetCode](https://leetcode.com/problems/majority-element/)
+- [x] Majority Element [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/MajorityElement/Solution.java) | [LeetCode](https://leetcode.com/problems/majority-element/)
 - [ ] Add Binary [My solution]() | [LeetCode](https://leetcode.com/problems/add-binary/)
 - [ ] Diameter of a Binary Tree [My solution]() | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/)
 - [ ] Middle of the Linked List [My solution]() | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/)
