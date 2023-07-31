@@ -30,4 +30,4 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] Majority Element [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/MajorityElement/Solution.java) | [LeetCode](https://leetcode.com/problems/majority-element/)
 - [x] Add Binary [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/AddBinary/Solution.java) | [LeetCode](https://leetcode.com/problems/add-binary/)
 - [x] Diameter of a Binary Tree [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/DiameterOfBinaryTree/Solution.java) | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/)
-- [ ] Middle of the Linked List [My solution]() | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [x] Middle of the Linked List [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/MiddleOfTheLinkedList/Solution.java) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/)
