@@ -31,3 +31,10 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] Add Binary [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/AddBinary/Solution.java) | [LeetCode](https://leetcode.com/problems/add-binary/)
 - [x] Diameter of a Binary Tree [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/DiameterOfBinaryTree/Solution.java) | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/)
 - [x] Middle of the Linked List [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/MiddleOfTheLinkedList/Solution.java) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [x] Maximum Depth of Binary Tree [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/MaximumDepthOfBinaryTree/Solution.java) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [ ] Contains Duplicate [My solution]() | [LeetCode](https://leetcode.com/problems/contains-duplicate/)
+
+### Medium
+- [ ] Maximim Subarray [My solution]() | [LeetCode](https://leetcode.com/problems/maximum-subarray/)
+- [ ] Insert Interval [My solution]() | [LeetCode](https://leetcode.com/problems/insert-interval/)
+- [ ] 01 Matrix [My solution]() | [LeetCode](https://leetcode.com/problems/01-matrix/)
