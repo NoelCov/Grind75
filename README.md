@@ -35,6 +35,6 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] Contains Duplicate [My solution](https://github.com/NoelCov/Grind75/blob/main/Easy/ContainsDuplicate/Solution.java) | [LeetCode](https://leetcode.com/problems/contains-duplicate/)
 
 ### Medium
-- [ ] Maximim Subarray [My solution]() | [LeetCode](https://leetcode.com/problems/maximum-subarray/)
+- [x] Maximum Subarray [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/MaximumSubarray/Solution.java) | [LeetCode](https://leetcode.com/problems/maximum-subarray/)
 - [ ] Insert Interval [My solution]() | [LeetCode](https://leetcode.com/problems/insert-interval/)
 - [ ] 01 Matrix [My solution]() | [LeetCode](https://leetcode.com/problems/01-matrix/)
