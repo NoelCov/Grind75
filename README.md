@@ -36,5 +36,5 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 
 ### Medium
 - [x] Maximum Subarray [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/MaximumSubarray/Solution.java) | [LeetCode](https://leetcode.com/problems/maximum-subarray/)
-- [ ] Insert Interval [My solution]() | [LeetCode](https://leetcode.com/problems/insert-interval/)
+- [x] Insert Interval [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/InsertInterval/Solution.java) | [LeetCode](https://leetcode.com/problems/insert-interval/)
 - [ ] 01 Matrix [My solution]() | [LeetCode](https://leetcode.com/problems/01-matrix/)
