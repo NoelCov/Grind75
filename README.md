@@ -40,7 +40,7 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] 01 Matrix [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/01Matrix/Solution.java) | [LeetCode](https://leetcode.com/problems/01-matrix/)
 - [x] K Closest Points to Origen [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/KClosestPointsToOrigin/Solution.java) | [LeetCode](https://leetcode.com/problems/k-closest-points-to-origin)
 - [ ] 3Sum [My solution]() | [LeetCode](https://leetcode.com/problems/3sum)
-- [ ] Binary Tree Level Order Traversal [My solution]() | [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal)
+- [x] Binary Tree Level Order Traversal [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/BinaryTreeLvelOrderTraversal/Solution.java) | [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal)
 - [ ] Clone Graph [My solution]() | [LeetCode](https://leetcode.com/problems/clone-graph)
 - [ ] Evaluate Reverse Polish Notation [My solution]() | [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation)
 - [ ] Course Schedule [My solution]() | [LeetCode](https://leetcode.com/problems/course-schedule)
