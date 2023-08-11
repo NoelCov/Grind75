@@ -42,7 +42,7 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] 3Sum [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/3Sum/Solution.java) | [LeetCode](https://leetcode.com/problems/3sum)
 - [x] Binary Tree Level Order Traversal [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/BinaryTreeLevelOrderTraversal/Solution.java) | [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal)
 - [x] Clone Graph [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/CloneGraph/Solution.java) | [LeetCode](https://leetcode.com/problems/clone-graph)
-- [ ] Evaluate Reverse Polish Notation [My solution]() | [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation)
+- [x] Evaluate Reverse Polish Notation [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/EvaluateReversePolishNotation/Solution.java) | [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation)
 - [ ] Course Schedule [My solution]() | [LeetCode](https://leetcode.com/problems/course-schedule)
 - [ ] Implement Trie (Prefix Tree) [My solution]() | [LeetCode](https://leetcode.com/problems/implement-trie-prefix-tree)
 - [ ] Coin Change [My solution]() | [LeetCode](https://leetcode.com/problems/coin-change)
