@@ -43,7 +43,7 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] Binary Tree Level Order Traversal [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/BinaryTreeLevelOrderTraversal/Solution.java) | [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal)
 - [x] Clone Graph [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/CloneGraph/Solution.java) | [LeetCode](https://leetcode.com/problems/clone-graph)
 - [x] Evaluate Reverse Polish Notation [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/EvaluateReversePolishNotation/Solution.java) | [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation)
-- [ ] Course Schedule [My solution]() | [LeetCode](https://leetcode.com/problems/course-schedule)
+- [x] Course Schedule [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/CourseSchedule/Solution.java) | [LeetCode](https://leetcode.com/problems/course-schedule)
 - [ ] Implement Trie (Prefix Tree) [My solution]() | [LeetCode](https://leetcode.com/problems/implement-trie-prefix-tree)
 - [ ] Coin Change [My solution]() | [LeetCode](https://leetcode.com/problems/coin-change)
 - [ ] Product of Array Except Self [My solution]() | [LeetCode](https://leetcode.com/problems/product-of-array-except-self)
