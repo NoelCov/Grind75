@@ -45,7 +45,7 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] Evaluate Reverse Polish Notation [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/EvaluateReversePolishNotation/Solution.java) | [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation)
 - [x] Course Schedule [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/CourseSchedule/Solution.java) | [LeetCode](https://leetcode.com/problems/course-schedule)
 - [x] Implement Trie (Prefix Tree) [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/ImplementTrie/Solution.java) | [LeetCode](https://leetcode.com/problems/implement-trie-prefix-tree)
-- [ ] Coin Change [My solution]() | [LeetCode](https://leetcode.com/problems/coin-change)
+- [x] Coin Change [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/ImplementTrie/Solution.java) | [LeetCode](https://leetcode.com/problems/coin-change)
 - [ ] Product of Array Except Self [My solution]() | [LeetCode](https://leetcode.com/problems/product-of-array-except-self)
 - [ ] Min Stack [My solution]() | [LeetCode](https://leetcode.com/problems/min-stack)
 - [ ] Validate Binary Search Tree [My solution]() | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree)
