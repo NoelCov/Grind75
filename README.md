@@ -48,5 +48,5 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] Coin Change [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/CoinChange/Solution.java) | [LeetCode](https://leetcode.com/problems/coin-change)
 - [x] Product of Array Except Self [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/ProductOfArrayExceptSelf/Solution.java) | [LeetCode](https://leetcode.com/problems/product-of-array-except-self)
 - [x] Min Stack [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/MinStack/Solution.java) | [LeetCode](https://leetcode.com/problems/min-stack)
-- [ ] Validate Binary Search Tree [My solution]() | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree)
+- [x] Validate Binary Search Tree [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/ValidateBinarySearchTree/Solution.java) | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree)
 - [ ] Number of Islands [My solution]() | [LeetCode](https://leetcode.com/problems/number-of-islands)
