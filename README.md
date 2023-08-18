@@ -49,4 +49,4 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] Product of Array Except Self [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/ProductOfArrayExceptSelf/Solution.java) | [LeetCode](https://leetcode.com/problems/product-of-array-except-self)
 - [x] Min Stack [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/MinStack/Solution.java) | [LeetCode](https://leetcode.com/problems/min-stack)
 - [x] Validate Binary Search Tree [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/ValidateBinarySearchTree/Solution.java) | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree)
-- [ ] Number of Islands [My solution]() | [LeetCode](https://leetcode.com/problems/number-of-islands)
+- [x] Number of Islands [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/NumberOfIslands/Solution.java) | [LeetCode](https://leetcode.com/problems/number-of-islands)
