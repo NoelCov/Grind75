@@ -51,7 +51,7 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] Validate Binary Search Tree [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/ValidateBinarySearchTree/Solution.java) | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree)
 - [x] Number of Islands [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/NumberOfIslands/Solution.java) | [LeetCode](https://leetcode.com/problems/number-of-islands)
 - [x] Rotting Oranges [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/RottingOranges/Solution.java) | [LeetCode](https://leetcode.com/problems/rotting-oranges)
-- [ ] Search in Rotated Sorted Array [My solution]() | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array)
+- [x] Search in Rotated Sorted Array [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/SearchInRotatedSortedArray/Solution.java) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array)
 - [ ] Combination Sum [My solution]() | [LeetCode](https://leetcode.com/problems/combination-sum)
 - [ ] Permutations [My solution]() | [LeetCode](https://leetcode.com/problems/permutations)
 - [ ] Merge Intervals [My solution]() | [LeetCode](https://leetcode.com/problems/merge-intervals)
