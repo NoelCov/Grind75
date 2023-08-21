@@ -52,7 +52,7 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] Number of Islands [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/NumberOfIslands/Solution.java) | [LeetCode](https://leetcode.com/problems/number-of-islands)
 - [x] Rotting Oranges [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/RottingOranges/Solution.java) | [LeetCode](https://leetcode.com/problems/rotting-oranges)
 - [x] Search in Rotated Sorted Array [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/SearchInRotatedSortedArray/Solution.java) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array)
-- [ ] Combination Sum [My solution]() | [LeetCode](https://leetcode.com/problems/combination-sum)
+- [x] Combination Sum [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/CombinationSum/Solution.java) | [LeetCode](https://leetcode.com/problems/combination-sum)
 - [ ] Permutations [My solution]() | [LeetCode](https://leetcode.com/problems/permutations)
 - [ ] Merge Intervals [My solution]() | [LeetCode](https://leetcode.com/problems/merge-intervals)
 - [ ] Lowest Common Ancestor of a Binary Tree [My solution]() | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
