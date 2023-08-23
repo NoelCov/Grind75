@@ -54,7 +54,7 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] Search in Rotated Sorted Array [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/SearchInRotatedSortedArray/Solution.java) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array)
 - [x] Combination Sum [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/CombinationSum/Solution.java) | [LeetCode](https://leetcode.com/problems/combination-sum)
 - [x] Permutations [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/Permutations/Solution.java) | [LeetCode](https://leetcode.com/problems/permutations)
-- [ ] Merge Intervals [My solution]() | [LeetCode](https://leetcode.com/problems/merge-intervals)
+- [x] Merge Intervals [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/MergeIntervals/Solution.java) | [LeetCode](https://leetcode.com/problems/merge-intervals)
 - [ ] Lowest Common Ancestor of a Binary Tree [My solution]() | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
 - [ ] Time Based Key-Value Store [My solution]() | [LeetCode](https://leetcode.com/problems/time-based-key-value-store)
 - [ ] Accounts Merge [My solution]() | [LeetCode](https://leetcode.com/problems/accounts-merge)
