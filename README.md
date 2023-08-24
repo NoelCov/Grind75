@@ -55,7 +55,7 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] Combination Sum [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/CombinationSum/Solution.java) | [LeetCode](https://leetcode.com/problems/combination-sum)
 - [x] Permutations [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/Permutations/Solution.java) | [LeetCode](https://leetcode.com/problems/permutations)
 - [x] Merge Intervals [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/MergeIntervals/Solution.java) | [LeetCode](https://leetcode.com/problems/merge-intervals)
-- [ ] Lowest Common Ancestor of a Binary Tree [My solution]() | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
+- [x] Lowest Common Ancestor of a Binary Tree [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/LowestCommonAncestorOfBinaryTree/Solution.java) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
 - [ ] Time Based Key-Value Store [My solution]() | [LeetCode](https://leetcode.com/problems/time-based-key-value-store)
 - [ ] Accounts Merge [My solution]() | [LeetCode](https://leetcode.com/problems/accounts-merge)
 - [ ] Sort Colors [My solution]() | [LeetCode](https://leetcode.com/problems/sort-colors)
