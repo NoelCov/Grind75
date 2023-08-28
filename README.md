@@ -59,3 +59,4 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] Time Based Key-Value Store [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/TimeBasedKey-ValueStore/Solution.java) | [LeetCode](https://leetcode.com/problems/time-based-key-value-store)
 - [x] Accounts Merge [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/AccountsMerge/Solution.java) | [LeetCode](https://leetcode.com/problems/accounts-merge)
 - [x] Sort Colors [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/SortColors/Solution.java) | [LeetCode](https://leetcode.com/problems/sort-colors)
+- [x] Word break [My Solution](https://github.com/NoelCov/Grind75/blob/main/Medium/WordBreak/Solution.java) | [Leetcode](https://leetcode.com/problems/word-break/)
