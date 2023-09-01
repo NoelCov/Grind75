@@ -62,7 +62,7 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] Word break [My Solution](https://github.com/NoelCov/Grind75/blob/main/Medium/WordBreak/Solution.java) | [Leetcode](https://leetcode.com/problems/word-break/)
 - [x] Partition Equal Subset Sum [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/PartitionEqualSubsetSum/Solution.java) | [LeetCode](https://leetcode.com/problems/partition-equal-subset-sum)
 - [x] String to Integer (atoi) [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/StringToInteger/Solution.java) | [LeetCode](https://leetcode.com/problems/string-to-integer-atoi)
-- [ ] Spiral Matrix [My solution]() | [LeetCode](https://leetcode.com/problems/spiral-matrix)
+- [x] Spiral Matrix [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/SpiralMatrix/Solution.java) | [LeetCode](https://leetcode.com/problems/spiral-matrix)
 - [ ] Subsets [My solution]() | [LeetCode](https://leetcode.com/problems/subsets)
 - [ ] Longest Palindromic Substring [My solution]() | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring)
 - [ ] Binary Tree Right Side View [My solution]() | [LeetCode](https://leetcode.com/problems/binary-tree-right-side-view)
