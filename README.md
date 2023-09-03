@@ -65,6 +65,6 @@ The questions are separated by difficulty (Easy, Medium and Hard). The questions
 - [x] Spiral Matrix [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/SpiralMatrix/Solution.java) | [LeetCode](https://leetcode.com/problems/spiral-matrix)
 - [x] Subsets [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/Subsets/Solution.java) | [LeetCode](https://leetcode.com/problems/subsets)
 - [ ] Longest Palindromic Substring [My solution]() | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring)
-- [ ] Binary Tree Right Side View [My solution]() | [LeetCode](https://leetcode.com/problems/binary-tree-right-side-view)
+- [x] Binary Tree Right Side View [My solution](https://github.com/NoelCov/Grind75/blob/main/Medium/BinaryTreeRightSideView/Solution.java) | [LeetCode](https://leetcode.com/problems/binary-tree-right-side-view)
 - [ ] Unique Paths [My solution]() | [LeetCode](https://leetcode.com/problems/unique-paths)
 - [ ] Construct Binary Tree From Preorder and Inorder Traversal [My solution]() | [LeetCode](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
